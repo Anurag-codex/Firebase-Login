@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Anurag-codex.github.io/Firebase-Login/static/css/main.b6854cc7.css",
+    "main.js": "/Anurag-codex.github.io/Firebase-Login/static/js/main.b1c95650.js",
+    "static/js/453.4759f8d2.chunk.js": "/Anurag-codex.github.io/Firebase-Login/static/js/453.4759f8d2.chunk.js",
+    "index.html": "/Anurag-codex.github.io/Firebase-Login/index.html",
+    "main.b6854cc7.css.map": "/Anurag-codex.github.io/Firebase-Login/static/css/main.b6854cc7.css.map",
+    "main.b1c95650.js.map": "/Anurag-codex.github.io/Firebase-Login/static/js/main.b1c95650.js.map",
+    "453.4759f8d2.chunk.js.map": "/Anurag-codex.github.io/Firebase-Login/static/js/453.4759f8d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6854cc7.css",
+    "static/js/main.b1c95650.js"
+  ]
+}
